@@ -1,1 +1,4 @@
-Test commit
+# This is just a test repository used to learn commits
+
+* Test1: Create a Readme ✔️
+* Test2: Fill Me
